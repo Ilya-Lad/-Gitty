@@ -1,0 +1,5 @@
+git config --global user.email "iladyzhinski@yahoo.com"
+git config --global user.name "Ilya-Lad"
+
+git remote add origin https://github.com/Ilya-Lad/-Gitty.git
+git push -u origin master
